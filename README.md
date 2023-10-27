@@ -1,2 +1,1 @@
-# course-statistics
-coursera course in statistics
+# Arb filer for kurs i statistikk
